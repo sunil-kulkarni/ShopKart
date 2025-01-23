@@ -1,0 +1,18 @@
+.app-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  min-height: 100vh;
+}
+
+.MuiTypography-h4 {
+  margin-bottom: 20px;
+}
+
+.MuiCard-root {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.MuiButton-root {
+  margin-top: 10px;
+}
